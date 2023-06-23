@@ -1,3 +1,5 @@
+[![MasterHead](![Screenshot (704)](https://github.com/SukrutDeshmukh/SukrutDeshmukh/assets/127339353/6a408e87-f520-4283-9992-a1c5dcf2073d)
+)]
 <h1 align="center">Hi 👋, I'm Sukrut Deshmukh</h1>
 <h3 align="center">An enthusiastic Data Analyst with proficiency in Excel, SQL, Python, Tableau, Power BI, and Machine learning. Experienced in extracting valuable insights from complex datasets and driving data-informed decision-making. Seeking a challenging opportunity to apply my skills and contribute as a fresher in the field of data analysis.</h3>
 
